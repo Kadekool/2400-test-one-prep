@@ -66,5 +66,5 @@ void fp(string bits, int exp, int frac){
 }
 
 int main(){
-    fp("010011",3,2);
+    fp("010101",3,2);
 }
